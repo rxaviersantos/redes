@@ -1,6 +1,9 @@
 
 # Projeto de Comunicação entre Redes
 
+![image](https://github.com/rxaviersantos/redes/assets/85380530/fac067b3-9251-4554-a6e6-3be273a86be7)
+
+
 ## Descrição
 
 Este projeto tem como objetivo demonstrar a configuração e comunicação entre duas redes distintas, A e B, utilizando equipamentos de rede e estabelecendo a comunicação entre elas por meio do protocolo ICMP.
